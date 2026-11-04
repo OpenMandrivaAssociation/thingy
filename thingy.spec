@@ -1,6 +1,6 @@
 Name:		thingy
 Version:	1.2.7
-Release:	1
+Release:	2
 Summary:	Document Manager
 License:        GPL-3+
 URL:            https://github.com/linuxmint/thingy
@@ -15,8 +15,8 @@ BuildRequires:	python
 Requires:       python
 Requires:       python-gi
 Requires:       python-setproctitle
-Requires:	lib64gnome-desktop-gir3.0	
-Requires:	lib64xapp-gir3.2
+Requires:	typelib(GnomeDesktop)	
+Requires:	typelib(XApp)
 Requires:       xreader
 Requires:       libgsf
 
