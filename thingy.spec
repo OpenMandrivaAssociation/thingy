@@ -1,6 +1,6 @@
 Name:		thingy
-Version:	1.2.7
-Release:	3
+Version:	1.2.8
+Release:	1
 Summary:	Document Manager
 License:        GPL-3+
 URL:            https://github.com/linuxmint/thingy
